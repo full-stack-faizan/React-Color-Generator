@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-touwer-app/static/css/main.6e7b5487.css",
-    "main.js": "/React-touwer-app/static/js/main.2d0b0e77.js",
-    "static/js/787.88008f41.chunk.js": "/React-touwer-app/static/js/787.88008f41.chunk.js",
-    "index.html": "/React-touwer-app/index.html",
-    "main.6e7b5487.css.map": "/React-touwer-app/static/css/main.6e7b5487.css.map",
-    "main.2d0b0e77.js.map": "/React-touwer-app/static/js/main.2d0b0e77.js.map",
-    "787.88008f41.chunk.js.map": "/React-touwer-app/static/js/787.88008f41.chunk.js.map"
+    "main.css": "/React-Color-Generator/static/css/main.811ebb71.css",
+    "main.js": "/React-Color-Generator/static/js/main.51840b0c.js",
+    "static/js/787.88008f41.chunk.js": "/React-Color-Generator/static/js/787.88008f41.chunk.js",
+    "index.html": "/React-Color-Generator/index.html",
+    "main.811ebb71.css.map": "/React-Color-Generator/static/css/main.811ebb71.css.map",
+    "main.51840b0c.js.map": "/React-Color-Generator/static/js/main.51840b0c.js.map",
+    "787.88008f41.chunk.js.map": "/React-Color-Generator/static/js/787.88008f41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e7b5487.css",
-    "static/js/main.2d0b0e77.js"
+    "static/css/main.811ebb71.css",
+    "static/js/main.51840b0c.js"
   ]
 }
